@@ -262,7 +262,7 @@ __pycache__/
 
 
 # TwinCAT files
-#*.tpy
+*.tpy
 *.tclrs
 *.compiled-library
 *.compileinfo
