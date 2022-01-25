@@ -3,6 +3,7 @@
 	<Project ProjectGUID="{5F92231A-8961-46BE-86C9-04FF6F67A614}" Target64Bit="true" ShowHideConfigurations="#x106">
 		<Io>
 			<Device File="Device 1 (EtherCAT).xti" Id="1"/>
+			<Device File="Device 2 (EtherCAT).xti" Id="2"/>
 		</Io>
 	</Project>
 </TcSmProject>
