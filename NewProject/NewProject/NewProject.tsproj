@@ -4,6 +4,7 @@
 		<Io>
 			<Device File="Device 1 (EtherCAT).xti" Id="1"/>
 			<Device File="Device 2 (EtherCAT).xti" Id="2"/>
+			<Device File="Device 3 (EtherCAT).xti" Id="3"/>
 		</Io>
 	</Project>
 </TcSmProject>
